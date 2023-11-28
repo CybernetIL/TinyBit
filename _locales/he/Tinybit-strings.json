@@ -5,7 +5,7 @@
   "Tinybit.RGB_Car_Big2|block": "הגדר צבע LED RGB קידמי |ערך1 %value1|ערך2 %value2|ערך3 %value3",
   "Tinybit.Music_Car|block": "נגן מוסיקה|%index",
   "Tinybit.Voice_Sensor|block": "עוצמת חיישן סונאר",
-  "Tinybit.Line_Sensor|block": "חיישן מעקב |détecte %direct|צבע %value",
+  "Tinybit.Line_Sensor|block": "חיישן מעקב |detecte %direct|צבע %value",
   "Tinybit.CarCtrl|block": "תנועה mode1|%index",
   "Tinybit.CarCtrlSpeed|block": "תנועה mode2|%index|עם מהירות %speed",
   "Tinybit.CarCtrlSpeed2|block": "תנועה mode3|%index|עם מהירות1 %speed1|avec מהירות2 %speed2",
